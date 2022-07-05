@@ -1,0 +1,17 @@
+
+@media (max-width: 740px) {
+   .container .box{
+      flex-flow: column;
+      width: 90%;
+   }
+   .container .box .myimage:before{
+      width: 100%;
+      box-shadow: 0 15px 0 rgb(133, 129, 129);
+      top: -36%;
+      left: 0;
+   }
+   .container .box .myimage img{
+      width: 100px;
+      width: 100px;
+   }
+}
